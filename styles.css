@@ -1,0 +1,29 @@
+div{
+    text-align:center;
+}
+ul{
+  
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+li { 
+    display:inline;
+}
+.box1{
+    margin:40px;
+    border:5px solid orange;
+    padding:20px;
+    background:yellow;
+
+}
+.box2{
+    border:8px dotted green;
+    border-radius:15px;
+    padding-left: 10px;
+    padding-bottom:5px;
+    padding-right:40px;
+    padding-top:8px;
+
+}
